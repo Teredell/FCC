@@ -13,3 +13,8 @@ I re-do them on codepen.io in a slightly altered fashion so they display
 and then having to copy/paste them here, which i've neglected.
 There must be a better more efficient way.
 
+26/5/20
+I have now figured out how to make JS "run" in Microsoft visual code!
+In addition I have figured out how to connect it thru github desktop to automagically update the repositiories.
+Lots of googling but now i'll slowly add all those lessons over.
+Extra practice is good though.
