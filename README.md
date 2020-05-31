@@ -18,3 +18,7 @@ I have now figured out how to make JS "run" in Microsoft visual code!
 In addition I have figured out how to connect it thru github desktop to automagically update the repositiories.
 Lots of googling but now i'll slowly add all those lessons over.
 Extra practice is good though.
+
+31/5/20
+I now have JS running on sublime text on my home Linux mint machine and github desktop on there also.
+Continuing to work through the lessons and catchup to where I am up to on FCC
