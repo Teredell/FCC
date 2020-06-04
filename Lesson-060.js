@@ -1,0 +1,14 @@
+//Lesson 60 - Comparison with the Inequality Operator
+
+// Setup
+function testNotEqual(val) {
+    if (val != 99) { // Change this line
+      return "Not Equal";
+    }
+    return "Equal";
+  }
+  
+  testNotEqual(10);
+  console.log(testNotEqual(99));
+  
+  console.log(testNotEqual(71));
