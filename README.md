@@ -22,3 +22,8 @@ Extra practice is good though.
 31/5/20
 I now have JS running on sublime text on my home Linux mint machine and github desktop on there also.
 Continuing to work through the lessons and catchup to where I am up to on FCC
+
+14/6/20
+I'm starting to reach that point where things are't simple all the time, which is good!
+I'm moving forward slowly with the new concepts and going back over the easy ones catching up with my current position on FCC
+Repitition is key.
