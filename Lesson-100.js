@@ -31,7 +31,6 @@ console.log(multiply([2, 3, 4], 1)); //should equal 2
 console.log(multiply([3, 4, 5, 6], 3)); //should equal 60
 console.log(multiply([21, 13, 44, 5], 3)); //should equal 12012
 
-
 /* After much head-bashing against the wall and edits
 The way i needed to get understanding, rightly or wrongly was this....
 After the code runs it looks like: (1) * (n[2] * n[1] * n)
