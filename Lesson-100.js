@@ -12,36 +12,40 @@ else{
 }
 
 console.log(sum([1], 0)); //should equal 0.
-
 console.log(sum([2, 3, 4], 1)); //should equal 2.
-
 console.log(sum([2, 3, 4, 5], 3)); //should equal 9.
-
 console.log(sum([2, 3, 4, 5], 4)); //should equal 14.
 
 //Additional work solidifying how recusion works, using lesson example
 
   function multiply(arr, n) {
     if (n <= 0) {
-    	//console.log("I'm out");
       return 1;
     } else {
-    	//console.log (n);
-    	//var some = multiply(arr, n - 1);
-    	    	//console.log ("multiply(arr, n-1 evaluates to: " + some);
-
-    	//var nnn = arr[n - 1];;
-    	//    	console.log ("arr[n-1] evaluates to: " + nnn);
-    	var currentVal = multiply(arr, n - 1);
-
-    		console.log("Current val is: " + currentVal);
       return multiply(arr, n - 1) * arr[n - 1];
     }
   }
 
-//console.log(multiply([1], 0)); //should equal 1. because it is the base case.
-console.log("show me what happens");
-//console.log(multiply([2, 3, 4], 1)); //should equal 2 because........
-//console.log("show me what happens");
-console.log(multiply([3, 4, 5, 6], 3));
-//console.log(multiply([21, 13, 44, 5], 3)); //should equal 24
+console.log(multiply([1], 0)); //should equal 1
+console.log(multiply([2, 3, 4], 1)); //should equal 2
+console.log(multiply([3, 4, 5, 6], 3)); //should equal 60
+console.log(multiply([21, 13, 44, 5], 3)); //should equal 12012
+
+
+/* After much head-bashing against the wall and edits
+The way i needed to get understanding, rightly or wrongly was this....
+After the code runs it looks like: (1) * (n[2] * n[1] * n)
+Where 1 is the last run through the code */
+
+// one more homebrewed example to solidify
+
+function matLoop(matVar){
+  if (matVar >= 5){
+    return "Recursion ends here";
+  }else{
+    console.log(matVar);
+    return matLoop(matVar + 1);
+  }
+}
+
+console.log(matLoop(1));

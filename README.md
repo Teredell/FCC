@@ -27,3 +27,7 @@ Continuing to work through the lessons and catchup to where I am up to on FCC
 I'm starting to reach that point where things aren't simple all the time, which is good!
 I'm moving forward slowly with the new concepts and going back over the easy ones catching up with my current position on FCC.
 Repitition is key.
+
+29/6/20
+Work has been really busy of late, some days I'm only getting in like 10 mins of practice.
+Additionally I'm going to spend more time practicing some of these more difficult concepts to fully understand them.
