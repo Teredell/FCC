@@ -7,7 +7,7 @@ function catTalk() {
 
   catName = "Oliver";
   quote = catName + " says Meow!";
-  return quote;
+  return quote; //Added to demo lesson
 }
 catTalk();
 
