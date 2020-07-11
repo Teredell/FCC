@@ -31,3 +31,6 @@ Repitition is key.
 29/6/20
 Work has been really busy of late, some days I'm only getting in like 10 mins of practice.
 Additionally I'm going to spend more time practicing some of these more difficult concepts to fully understand them.
+
+11/7/20
+Individual README's have been added to each folder as a bit of a place for review
