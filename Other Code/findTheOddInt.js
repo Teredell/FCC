@@ -16,7 +16,20 @@ function findOdd(A) {
         }
     }
     //now we have our object we need to test each one for modulo
-   console.log(newObj);
+  // console.log(newObj);
+   for(const item in newObj){
+       //console.log(item);
+     //  if(newObj.hasOwnProperty(item)){
+      //     console.log(item + " value? " + newObj[item]);
+      // }
+       //if(newObj[item] % 2){
+       //    console.log(item + " is the one");
+      // }
+       //console.log(item[property] + " line 1");
+       if(newObj[item] % 2){
+        return item;
+    }
+   }
   }
 
-  findOdd(A);
+  console.log(findOdd(A));
