@@ -34,3 +34,10 @@ Additionally I'm going to spend more time practicing some of these more difficul
 
 11/7/20
 Individual README's have been added to each folder as a bit of a place for review
+
+29/4/21
+My current workplace made sweeping I.T changes some time ago which has meant i can no longer use VS code and several other applications on my work computer.
+I am now limited to learning either at home after a long day or in browser only.
+The last few days I have been revising over the JS lessons in FCC to get back to where i was.
+I doesn't feel like i'm making progress on FCC as you only get a "point" or streak day for lessons you have not alrerady completed.
+I figure adding a commit to this file each day i do some practice will serve that feeling of progress.
