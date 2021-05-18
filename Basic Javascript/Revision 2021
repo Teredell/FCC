@@ -11,10 +11,13 @@ Revision 2021
 13/05/21 - Lesson 80 (Accessing Object Properties with Variables) - Lesson 86 (Manipulating Complex Objects)
 14/05/21 - Lesson 87 (Accessing Nested Objects) - Lesson 88 - (Accessing Nested Arrays)
 17/05/21 - Lesson 89 - Spent some time today between a mountain of work looking at this record problem. I may need to do this one with focused time. but i did make a little headway
-
+18/05/21 - Lesson 89 - managed to pass it today!
 
 
 
 Note: 11/5/21 - Very impressed with myself for getting card counting right on first attempt. I recall this being difficult.
 Note: 13/5/21 - Need to be sure about when to use dot and bracket notation (lesson: Testing Objects for Properties). I have passed the lesson but checking this is a good plan.
 Note: 14/5/21 - Started looking at record collection, but i'm not in a space at work where i have the capacity to complete it.
+Note: 18/05/21 - I need to be more careful with [] & () on the .hasOwnProperty useage this was basically what was causing me to fail. I understand though. [] for variables 
+and () as i was testing the string i was expecting in the variable. <--- thats probs not grammatically correct but i've been on my own all day in the office with no help
+and still managed to do a little coding.
