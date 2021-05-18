@@ -18,6 +18,6 @@ Revision 2021
 Note: 11/5/21 - Very impressed with myself for getting card counting right on first attempt. I recall this being difficult.
 Note: 13/5/21 - Need to be sure about when to use dot and bracket notation (lesson: Testing Objects for Properties). I have passed the lesson but checking this is a good plan.
 Note: 14/5/21 - Started looking at record collection, but i'm not in a space at work where i have the capacity to complete it.
-Note: 18/05/21 - I need to be more careful with [] & () on the .hasOwnProperty useage this was basically what was causing me to fail. I understand though. [] for variables 
-and () as i was testing the string i was expecting in the variable. <--- thats probs not grammatically correct but i've been on my own all day in the office with no help
+Note: 18/05/21 - I need to be more careful with [] & () on the .hasOwnProperty useage this was basically what was causing me to fail. I understand though. i need to use ()
+and if i want to test for a string "" and variable no "" - don't use []. <--- thats probs not grammatically correct but i've been on my own all day in the office with no help
 and still managed to do a little coding.
