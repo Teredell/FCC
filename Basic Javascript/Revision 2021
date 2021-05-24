@@ -15,6 +15,8 @@ Revision 2021
 19/05/21 - Lesson 90 - Iterate with JavaScript While Loops
 20/05/21 - Lesson 91 - (Iterate with JavaScript For Loops) - Lesson 96 (Iterate with JavaScript Do...While Loops)
 21/05/21 - Spending time understanding recursion, will not call this done yet.
+24/05/21 - Lesson 97 Completed recursion exercise
+
 
 
 Note: 11/5/21 - Very impressed with myself for getting card counting right on first attempt. I recall this being difficult.
@@ -23,3 +25,4 @@ Note: 14/5/21 - Started looking at record collection, but i'm not in a space at 
 Note: 18/05/21 - I need to be more careful with [] & () on the .hasOwnProperty useage this was basically what was causing me to fail. I understand though. i need to use ()
 and if i want to test for a string "" and variable no "" - don't use []. <--- thats probs not grammatically correct but i've been on my own all day in the office with no help
 and still managed to do a little coding.
+Note: 24/05/21 - I have gone and done a bit of a readup on my previous efforts with recursion, i was never comfortable with it but i understand as much as i did last time
