@@ -17,6 +17,7 @@ Revision 2021
 21/05/21 - Spending time understanding recursion, will not call this done yet.
 24/05/21 - Lesson 97 Completed recursion exercise
 28/05/21 - Profile lookup completed. Some errors with code but logic understood. repeated several times.
+28/05/21 - Completed rest of basic javascript exercises.
 
 
 
@@ -27,4 +28,5 @@ Note: 18/05/21 - I need to be more careful with [] & () on the .hasOwnProperty u
 and if i want to test for a string "" and variable no "" - don't use []. <--- thats probs not grammatically correct but i've been on my own all day in the office with no help
 and still managed to do a little coding.
 Note: 24/05/21 - I have gone and done a bit of a readup on my previous efforts with recursion, i was never comfortable with it but i understand as much as i did last time
-Note: 28/05/21 - Last few days have been hectic but i am determined to continue with this!
+Note: 28/05/21 - Last few days have been hectic but i am determined to continue with this! Will have to revisit recursion, such a difficult concept but i think im getting it.
+
