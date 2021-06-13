@@ -1,4 +1,4 @@
-//Lesson 006 - Find More Than the First MatchPassed
+//Lesson 006 - Find More Than the First Match
 
 let twinkleStar = "Twinkle, twinkle, little star";
 //let starRegex = /change/; // Change this line - This is how the line was oringially
