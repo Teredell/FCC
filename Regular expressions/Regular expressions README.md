@@ -23,3 +23,4 @@ Using the below inside the regex also assists
 
 
 
+At the end of all regex exercises this file needs updating with understandings
