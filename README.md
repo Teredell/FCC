@@ -16,7 +16,7 @@ There must be a better more efficient way.
 26/5/20
 I have now figured out how to make JS "run" in Microsoft visual code!
 In addition I have figured out how to connect it thru github desktop to automagically update the repositiories.
-Lots of googling but now i'll slowly add all those lessons over.
+Lots of googling but now I'll slowly add all those lessons over.
 Extra practice is good though.
 
 31/5/20
@@ -33,11 +33,17 @@ Work has been really busy of late, some days I'm only getting in like 10 mins of
 Additionally I'm going to spend more time practicing some of these more difficult concepts to fully understand them.
 
 11/7/20
-Individual README's have been added to each folder as a bit of a place for review
+Individual README's have been added to each folder as a bit of a place for review.
 
 29/4/21
-My current workplace made sweeping I.T changes some time ago which has meant i can no longer use VS code and several other applications on my work computer.
+My current workplace made sweeping I.T changes some time ago which has meant I can no longer use VS code and several other applications on my work computer.
 I am now limited to learning either at home after a long day or in browser only.
-The last few days I have been revising over the JS lessons in FCC to get back to where i was.
-I doesn't feel like i'm making progress on FCC as you only get a "point" or streak day for lessons you have not alrerady completed.
-I figure adding a commit to this file each day i do some practice will serve that feeling of progress.
+The last few days I have been revising over the JS lessons in FCC to get back to where I was.
+It doesn't feel like I'm making progress on FCC as you only get a "point" or streak day for lessons you have not alrerady completed.
+I figure adding a commit to this file each day I do some practice will serve that feeling of progress.
+
+21/06/21
+Lost a bit of the streak there due to interstate visitations but have been going strong since.
+I've re-completed basic JS & REGEX, I'm going to skip over ES6 for now, i recall this being quite the hurdle. 
+I think I'll get through debugging and then come back to it, before moving onto basic data structures, where i'll start earning streak days again.
+I've found a site call replit.com and while i haven't integrated with github yet it's good to have an IDE available at work.
