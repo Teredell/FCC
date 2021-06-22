@@ -10,7 +10,7 @@ I haven't been updating it with lessons as planned but my JS journey has begun.
 Having like 3 places my code is stored seems like hard work.
 I complete the lessons on FreeCodeCamp
 I re-do them on codepen.io in a slightly altered fashion so they display
-and then having to copy/paste them here, which i've neglected.
+and then having to copy/paste them here, which I've neglected.
 There must be a better more efficient way.
 
 26/5/20
@@ -47,3 +47,7 @@ Lost a bit of the streak there due to interstate visitations but have been going
 I've re-completed basic JS & REGEX, I'm going to skip over ES6 for now, i recall this being quite the hurdle. 
 I think I'll get through debugging and then come back to it, before moving onto basic data structures, where i'll start earning streak days again.
 I've found a site call replit.com and while i haven't integrated with github yet it's good to have an IDE available at work.
+
+22/06/21
+Didn't think I'd be adding a new entry so soon, but I was right kind of yesterday.
+lesson 5 of debugging has an arrow function so I'll go to ES6 as soon as i'm done.
