@@ -2,13 +2,16 @@
 
 //var catName; //Previous incorrect
 //var quote; //Previous incorrect
-let catName; //Corrected for lesson
-let quote; //Corrected for lesson
+let catName;
+let quote;
 function catTalk() {
   "use strict";
 
-  catName = "Oliver";
+  catName = "Princess Bob";
   quote = catName + " says Meow!";
-
+  return quote; //Added to demo lesson
 }
+
 catTalk();
+
+console.log(catTalk()); // Will log Princess Bob says Meow!
