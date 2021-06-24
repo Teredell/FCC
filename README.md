@@ -51,3 +51,9 @@ I've found a site call replit.com and while i haven't integrated with github yet
 22/06/21
 Didn't think I'd be adding a new entry so soon, but I was right kind of yesterday.
 lesson 5 of debugging has an arrow function so I'll go to ES6 as soon as i'm done.
+
+24/06/21
+About to re-start ES6 (with some trepidation) but there were several lessons already exisiting with some notes.
+I've re-named these lessons (why delete them, they have some notes) & had a scan of the notes.
+I'll re-read each lessons notes on the old ones as i go through and re-complete the ES6 lessons as I go.
+Hopefully ES6 makes more sense this time round as but most important, i have to stick with it!
