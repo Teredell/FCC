@@ -5,3 +5,4 @@ I'm still using the README in each section for notes about what each section tea
 lesson 1: mostly that using let over var will catch re-use errors
 lesson 2: also that using let instead of var will cause the variable to have local scope rather than global which can cause issues.
 (honestly, i'll use let, but people just need to use different variable names i think)
+lesson 3: using const for variables that are read only - also use CAPS to name them
