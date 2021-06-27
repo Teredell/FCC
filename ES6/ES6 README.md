@@ -32,3 +32,24 @@ The short version is this: using (...args) makes sense, no worries. It makes an 
 introducing the .reduce method is the confusing part and reduce requires another function which they make immediatelt within calling .reduce as a arrow function.
 reading and practicing how to use .reduce has shed some light on it, basically it allows for a mathematical function to be performed on all elements in 
 an array i.e. add em all, subtract etc etc, it would seem if declared in line you need the starting value of zero as my test below did not require it.
+
+lesson 10: Not to be confused with the rest parameter we learned in the last lesson, the spread parameter is used to expand an array out unlike the 
+rest paramater which i find to be combining into one array. There are other methods that are useful to apply in conjunction with the SPREAD paramter, like the Math.max method as shown in the lesson.
+
+lesson 11: Destructuring Assignment, given whats come before this is a change of "area of focus" it's like shorthand extracting values out of objects straight into new variables.
+
+lesson 12: Very closely related to above, you can rename the variables produced by destructuring assignment by using this syntax.
+
+lesson 13: again related to above lesson, but this will get new variable names for values extracted out of nested objects.
+
+lesson 14: It is not well explained how to get to solution code, I thought we were to be destructuring from an array but we are presented with 2 variables.
+I even came up with a passing solution that was not the answer, which was frustrating.
+Anyway this lesson "teaches" us that you can destructure values out of array and we can also use commas to reach the value in the array we want - if you read the lesson and not just the test.
+
+lesson 15: When destructuriong an aray we can use the rest parameter to collect elements up to the end of the array. Apparently this function is similar to 
+using .slice() but i've not used it yet. It is a bit limiting in that it must take everything to the end.
+
+lesson 16: sometimes some of the basics trip me up and the way this ends up being shows trips me up will i recognise that "half" is a function.
+Once you know that and you know that stats has to be passed to half in order for it to work it makes sense.
+if another object as passed that disnt have those properties, it wouldnt work.
+But if you know the properties, you can use this shortened method of destructuring during the function creation.

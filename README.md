@@ -57,3 +57,6 @@ About to re-start ES6 (with some trepidation) but there were several lessons alr
 I've re-named these lessons (why delete them, they have some notes) & had a scan of the notes.
 I'll re-read each lessons notes on the old ones as i go through and re-complete the ES6 lessons as I go.
 Hopefully ES6 makes more sense this time round as but most important, i have to stick with it!
+
+27/06/21
+Small congratulatory note to self, just passed lesson where I seemingly gave up last year.
