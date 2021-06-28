@@ -53,3 +53,5 @@ lesson 16: sometimes some of the basics trip me up and the way this ends up bein
 Once you know that and you know that stats has to be passed to half in order for it to work it makes sense.
 if another object as passed that disnt have those properties, it wouldnt work.
 But if you know the properties, you can use this shortened method of destructuring during the function creation.
+
+lesson 17: I solved this one to be the exact same as the help on my own! It can be done, just need to read thoroughly. We learned about backticks ` <--these and using ${variables} 
