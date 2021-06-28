@@ -55,3 +55,5 @@ if another object as passed that disnt have those properties, it wouldnt work.
 But if you know the properties, you can use this shortened method of destructuring during the function creation.
 
 lesson 17: I solved this one to be the exact same as the help on my own! It can be done, just need to read thoroughly. We learned about backticks ` <--these and using ${variables} 
+
+lesson 18: Well i can't believe i'm saying it, but in a weird way the lesson name says it all. It's a very concise way using ES6 to make objects.
