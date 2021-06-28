@@ -7,10 +7,10 @@ const result = {
 };
 function makeList(arr) {
   // Only change code below this line
-  const failureItems = [];
-  for(let i = 0; i < arr.length; i++){
-    failureItems.push(`<li class="text-warning">${arr[i]}</li>`)
-  };
+  const failureItems = [];                                          //This was the original line
+  for(let i = 0; i < arr.length; i++){                              //This line was added
+    failureItems.push(`<li class="text-warning">${arr[i]}</li>`)    //This line was added
+  };                                                                //This line was added
   // Only change code above this line
 
   return failureItems;
