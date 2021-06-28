@@ -56,4 +56,7 @@ But if you know the properties, you can use this shortened method of destructuri
 
 lesson 17: I solved this one to be the exact same as the help on my own! It can be done, just need to read thoroughly. We learned about backticks ` <--these and using ${variables} 
 
-lesson 18: Well i can't believe i'm saying it, but in a weird way the lesson name says it all. It's a very concise way using ES6 to make objects.
+lesson 18: Well i can't believe i'm saying it, but in a weird way the lesson name says it all. It's a very concise way using ES6 to make objects. I should probably expand this one a little.
+
+lesson 19: This lesson introduced the **this** keyword without any explaination. In addition i feel like it also just dropped in that objects can have funtions within them (maybe im tired and already knew that). Now we can make those function shorter and more concise with ES6 style, removing the word function basically.
+
