@@ -60,3 +60,7 @@ lesson 18: Well i can't believe i'm saying it, but in a weird way the lesson nam
 
 lesson 19: This lesson introduced the **this** keyword without any explaination. In addition i feel like it also just dropped in that objects can have funtions within them (maybe im tired and already knew that). Now we can make those function shorter and more concise with ES6 style, removing the word function basically.
 
+lesson 20: This lesson has introduced classes & constructors and used the **this** keyword again. I will need to likely do more in depth analysis of contructors and classes beyond the scope of this hint file. in essesence (at the moment) it appear a class is a complex object which you pre-define what each object is going to contain with a constructor.
+i.e. cars will all have # of wheels, # of doors, make and model
+if we made a car class each time you made an object you would construct it with each of those.
+
