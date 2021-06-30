@@ -64,3 +64,5 @@ lesson 20: This lesson has introduced classes & constructors and used the **this
 i.e. cars will all have # of wheels, # of doors, make and model
 if we made a car class each time you made an object you would construct it with each of those.
 
+lesson 21: See notes in .js file, basically the exercise is worded really poorly IMO and i had to decypher it into Mat language to understand what was going on with a relatively simple concept.
+
