@@ -66,3 +66,4 @@ if we made a car class each time you made an object you would construct it with 
 
 lesson 21: See notes in .js file, basically the exercise is worded really poorly IMO and i had to decypher it into Mat language to understand what was going on with a relatively simple concept.
 
+lesson 22: Whoa HTML, i'm rusty! Anyway, this seems to be a precursor to what's going to be needed to bring JS into websites, looks interesting. 
