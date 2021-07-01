@@ -75,3 +75,5 @@ lesson 22: Whoa HTML, i'm rusty! Anyway, this seems to be a precursor to what's 
 lesson 23: replit doesn't seem to like the export function - i think i'll need to test this out on a dummy webpage or something else. Either way lesson makes sense, straight forward.
 
 lesson 24: replit also does not like the import function. Tetsing on dummy webpage did not work, i need some further knowledge to implement using import / export. I'll also try on VS code at home and see if that works.
+
+lesson 25: As above really, but for all functions from a file.
