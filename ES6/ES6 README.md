@@ -66,6 +66,12 @@ if we made a car class each time you made an object you would construct it with 
 
 lesson 21: See notes in .js file, basically the exercise is worded really poorly IMO and i had to decypher it into Mat language to understand what was going on with a relatively simple concept.
 
+*_*_*_*_*_*_*_*_*_*_*_*_*
+LESSON 22 to 27 DO NOT WORK WITHOUT SERVER & FURTHER UNDERSTANDING IF YOU ARE TRYING TO JUST TRY IT OUT IN A LOCAL BROWSER
+*_*_*_*_*_*_*_*_*_*_*_*_*
+
 lesson 22: Whoa HTML, i'm rusty! Anyway, this seems to be a precursor to what's going to be needed to bring JS into websites, looks interesting. 
 
 lesson 23: replit doesn't seem to like the export function - i think i'll need to test this out on a dummy webpage or something else. Either way lesson makes sense, straight forward.
+
+lesson 24: replit also does not like the import function. Tetsing on dummy webpage did not work, i need some further knowledge to implement using import / export. I'll also try on VS code at home and see if that works.
