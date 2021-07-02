@@ -87,3 +87,6 @@ lesson 27: Doesn't work as above, however this shows what leson 26 sets up. set 
 lesson 28: Creating a promise, still learning about it.
 
 lesson 29: seems to work like an if/else so far but obviously it's more about asynchronicity.
+
+lesson 30: introduced the 'then' keyword fairly self explainitory in that if promise is fulfill then do what.
+
