@@ -54,7 +54,7 @@ Once you know that and you know that stats has to be passed to half in order for
 if another object as passed that disnt have those properties, it wouldnt work.
 But if you know the properties, you can use this shortened method of destructuring during the function creation.
 
-lesson 17: I solved this one to be the exact same as the help on my own! It can be done, just need to read thoroughly. We learned about backticks ` <--these and using ${variables} 
+lesson 17: I solved this one to be the exact same as the help on my own! It can be done, just need to read thoroughly. We learned about backticks ` <--these and using ${variables} `
 
 lesson 18: Well i can't believe i'm saying it, but in a weird way the lesson name says it all. It's a very concise way using ES6 to make objects. I should probably expand this one a little.
 
@@ -66,9 +66,11 @@ if we made a car class each time you made an object you would construct it with 
 
 lesson 21: See notes in .js file, basically the exercise is worded really poorly IMO and i had to decypher it into Mat language to understand what was going on with a relatively simple concept.
 
-*_*_*_*_*_*_*_*_*_*_*_*_*
+*_*_*_*_*_*_*_*_*_*_*_*_
+
 LESSON 22 to 27 DO NOT WORK WITHOUT SERVER & FURTHER UNDERSTANDING IF YOU ARE TRYING TO JUST TRY IT OUT IN A LOCAL BROWSER
-*_*_*_*_*_*_*_*_*_*_*_*_*
+
+*_*_*_*_*_*_*_*_*_*_*_*_
 
 lesson 22: Whoa HTML, i'm rusty! Anyway, this seems to be a precursor to what's going to be needed to bring JS into websites, looks interesting. 
 
@@ -84,3 +86,4 @@ lesson 27: Doesn't work as above, however this shows what leson 26 sets up. set 
 
 lesson 28: Creating a promise, still learning about it.
 
+lesson 29: seems to work like an if/else so far but obviously it's more about asynchronicity.
