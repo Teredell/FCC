@@ -60,3 +60,6 @@ Hopefully ES6 makes more sense this time round as but most important, i have to 
 
 27/06/21
 Small congratulatory note to self, just passed lesson where I seemingly gave up last year.
+
+02/07/21
+Finished ES6
