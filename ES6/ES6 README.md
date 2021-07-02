@@ -78,5 +78,7 @@ lesson 24: replit also does not like the import function. Tetsing on dummy webpa
 
 lesson 25: As above really, but for all functions from a file.
 
-lesson 26: As above again.
+lesson 26: As above again. It's worth noting that by setting a default in a file of many functions it is the one that will be pulled out when importing.
+
+lesson 27: Doesn't work as above, however this shows what leson 26 sets up. set default and then import default which is done by removing curly braces in the import call.
 
