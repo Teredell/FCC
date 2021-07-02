@@ -82,3 +82,5 @@ lesson 26: As above again. It's worth noting that by setting a default in a file
 
 lesson 27: Doesn't work as above, however this shows what leson 26 sets up. set default and then import default which is done by removing curly braces in the import call.
 
+lesson 28: Creating a promise, still learning about it.
+
