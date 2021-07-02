@@ -90,3 +90,4 @@ lesson 29: seems to work like an if/else so far but obviously it's more about as
 
 lesson 30: introduced the 'then' keyword fairly self explainitory in that if promise is fulfill then do what.
 
+lesson 31: and lastly catch for catrching errors with promises.
