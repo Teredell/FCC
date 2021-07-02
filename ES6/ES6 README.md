@@ -77,3 +77,6 @@ lesson 23: replit doesn't seem to like the export function - i think i'll need t
 lesson 24: replit also does not like the import function. Tetsing on dummy webpage did not work, i need some further knowledge to implement using import / export. I'll also try on VS code at home and see if that works.
 
 lesson 25: As above really, but for all functions from a file.
+
+lesson 26: As above again.
+
