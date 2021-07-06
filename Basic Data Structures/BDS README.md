@@ -13,3 +13,7 @@ Lesson 6: Adding items with splice. you can use splice to remove and add at the 
 Lesson 7: Introduced slice() (not sPlice), where we copy parts of an array into a new array.
 
 Lesson 8: Spread operator to copy one array out into another array is used. looks like this someArr = [...arr];
+
+Lesson 9: can use spread operator in the middle of another array.
+
+Lesson 10: One can use the indexOf() method to check if an element is present in an array.
