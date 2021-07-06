@@ -17,3 +17,6 @@ Lesson 8: Spread operator to copy one array out into another array is used. look
 Lesson 9: can use spread operator in the middle of another array.
 
 Lesson 10: One can use the indexOf() method to check if an element is present in an array.
+
+Lesson 11: using a for loop to iterate through an array, also using the indexOf method.
+
