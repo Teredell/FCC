@@ -63,3 +63,6 @@ Small congratulatory note to self, just passed lesson where I seemingly gave up 
 
 02/07/21
 Finished ES6
+
+06/07/21
+I'll have to review what i passed on 27/06/21, maybe there were 2 stop points? anyway, we are now breaking new ground!
