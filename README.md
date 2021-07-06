@@ -65,4 +65,4 @@ Small congratulatory note to self, just passed lesson where I seemingly gave up 
 Finished ES6
 
 06/07/21
-I'll have to review what i passed on 27/06/21, maybe there were 2 stop points? anyway, we are now breaking new ground!
+The note on 27/06/21 is where i gave up adding new lessons to github on my last revision of ES6, but it would seem i had finished it prior on FCC. NOW I have gone past that, i have completed all lessons i had previously done on FCC in total and am now breaking new ground.
