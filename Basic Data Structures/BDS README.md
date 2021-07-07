@@ -20,3 +20,16 @@ Lesson 10: One can use the indexOf() method to check if an element is present in
 
 Lesson 11: using a for loop to iterate through an array, also using the indexOf method.
 
+Lesson 12: creating & accessing mutli-level arrays.
+
+Lesson 13: Moving on to objects now! onbjects with key/value pairs. This lesson demonstares the 3 ways one can add new properties (or key/values) to an object. I need to be careful with terminology here.
+
+Lesson 14: Accessing and modifying nested objects with dot notation.
+
+Lesson 15: Accessing objects with variables / bracket notation - if key is unknown a vaiable can be used.
+
+Lesson 16: What is says on the box, how to delete properties of an object.
+
+Lesson 17: Checking if an object has a property, previously i used the hasOwnProperty() method, this exercise introduced the 'in' method, which is cool.
+
+Lesson 18: Using the (for .. in ) loop for objects.
