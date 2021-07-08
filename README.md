@@ -62,7 +62,10 @@ Hopefully ES6 makes more sense this time round as but most important, i have to 
 Small congratulatory note to self, just passed lesson where I seemingly gave up last year.
 
 02/07/21
-Finished ES6
+Completed ES6
 
 06/07/21
 The note on 27/06/21 is where i gave up adding new lessons to github on my last revision of ES6, but it would seem i had finished it prior on FCC. NOW I have gone past that, i have completed all lessons i had previously done on FCC in total and am now breaking new ground.
+
+08/07/21
+Completed basic data structures
