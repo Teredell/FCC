@@ -33,3 +33,7 @@ Lesson 16: What is says on the box, how to delete properties of an object.
 Lesson 17: Checking if an object has a property, previously i used the hasOwnProperty() method, this exercise introduced the 'in' method, which is cool.
 
 Lesson 18: Using the (for .. in ) loop for objects.
+
+Lesson 19: This one looks VERY useful - use the Object.keys() to return an array of all keys in an object. Note the capitalized O in Object.
+
+Lesson 20: I honestly thought the last exercise would have been harder or some sort or test..... maybe i'm getting better at this?? Used the .push() method to add onto an array stpored in an object.
