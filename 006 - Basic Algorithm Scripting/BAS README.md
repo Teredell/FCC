@@ -11,3 +11,10 @@ Lesson 5: I didn't read the question properly and came up with a solution to the
 Lesson 6: Another exercise where i kind of went the wrong way - i wanted to solve with REGEX and had to learna new method to do so, wet back and solved with slice method as required for greater understandinf
 
 Lesson 7: Similar to lesson 4 in that i feel achieved by solving easily. my solution very close to the provided one.
+
+Lesson 8: Truncating a string, breezed through it as above which is nice, but i noticed on the answer that i seem to be doing my if statements backwards.
+
+Lesson 9: The exercise asks for "Create a function that looks through an array arr and returns the first element in it that passes a 'truth test'. This means that given an element x, the 'truth test' is passed if func(x) is true. If no element passes the test, return undefined."
+I solved it without looking at the solution and my answer is basically it, just need to get more comfortable with => functions. I knew what was going on but need to see it /  do it more.
+
+Lesson 10: I knew using the === comparison would check if these different items evaluated to a boolean but the solution was after me to use the typeof so i put both solutions in my lesson.
