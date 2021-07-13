@@ -18,3 +18,15 @@ Lesson 9: The exercise asks for "Create a function that looks through an array a
 I solved it without looking at the solution and my answer is basically it, just need to get more comfortable with => functions. I knew what was going on but need to see it /  do it more.
 
 Lesson 10: I knew using the === comparison would check if these different items evaluated to a boolean but the solution was after me to use the typeof so i put both solutions in my lesson.
+
+Lesson 11: Right out of the gate i'll say that some of these methods weren't introduced and I am having to learn them to solve the puzzle, which is fine but it leaves me feeling dumber at the start because i'm presented with a challenge I haven't learnt the knowledge to pass it.
+So I leanred about .join, .split, .charAt & .replace.
+There were other methodologies to solve this but this is the one i arrived at which is a bit of a hybrid of the others found in the solutions.
+
+Lesson 12: This one was better explained and i had the knowledge. I do need to stop doing newArr = arr1 and use newArr = arr1.slice(); for copying arrays.
+Also learned that i can't splice in an array i have to loop thru the elements from an array and insert them.
+
+Lesson 13: There is a difference between === true and checking for truthy. After correcting this difference it all works.
+
+Lesson 14: Basically i nailed this one, and did the googling first to use the .sort(compare) method. My answer same as answer 1 in the help, there were several others available.
+
