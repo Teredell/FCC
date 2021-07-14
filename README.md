@@ -69,3 +69,6 @@ The note on 27/06/21 is where i gave up adding new lessons to github on my last 
 
 08/07/21
 Completed basic data structures
+
+14/07/21
+Completed Basic Algorithm scripting
