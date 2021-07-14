@@ -30,3 +30,6 @@ Lesson 13: There is a difference between === true and checking for truthy. After
 
 Lesson 14: Basically i nailed this one, and did the googling first to use the .sort(compare) method. My answer same as answer 1 in the help, there were several others available.
 
+lesson 15: I think i try to go for REGEX too often, becuase i keep thinking its going to come up. It's later in the day today and while i can code the solution i need to re-read it a few times more to let it sink in properly.
+
+Lesson 16: I played with many methods to get this done, in the end my method was good just needed to use slice and i would have had it.
