@@ -72,3 +72,6 @@ Completed basic data structures
 
 14/07/21
 Completed Basic Algorithm scripting
+
+18/07/21
+Completed Object Orientated Programming
