@@ -21,3 +21,19 @@ Lesson 10: Introduces the prototype methodology, i like this. So you can establi
 Lesson 11: Lesson 9 seems a little less redundant now, as there are different types of properties. own properties and prototype properties. (where prototype ones are made for all, just reiterating).
 
 Lesson 12: In addition to lesson 8, which is better to use, wee can also check if an object has been made using the .constructor method which will return true or false.
+
+Lesson 13: You can add multiple prototype items to the function in an object of it's own.
+
+Lesson 14: following on from 13, HOWEVER do not forget to firstly set COnstructor: nameOfFunction - if you don't then testing if it's a constrcutor will fail.
+
+Lesson 15: Some slight confusion here but you can check if an object is a prototypeOf, which seems to conflict with checking if it's been made using the constructporor hasOwnPorpoerties, but it's another way to check. It is a prototype of the object as a whole.
+
+Lesson 16: So my above confusion is a little better understood after this lesson. beagle is a prototype of Dog and Dog is a prototype of Object - as in Object supercededs everything!
+
+Lesson 17: This seems to be setting up for more parent/child object stuiff, but does not deliver properly. I understand where it's going but it should have delivered a working example.
+
+Lesson 18: I think i know where this is going and it might be going the long way around, let see. Anyway using the new keyword is not the best way to create objects anymore, at least in this example, maybe its only with inheritance its not the best. Now we use let someObject = Object.crates(SuperObject.prototype);
+
+Lesson 19: Ok, i think, awkwardly, it brought it together. create top level (or super type or parent) object, create next level down object and then do nextLelvelDownObject.prototype = Object.create(topLevelObject.prototype) to inherit the properties in the top level one. then you can create instances of the bottom level one that have the propertirs.
+
+Lesson 20: After seting up this structure one needs to remember to change the constructor in each individual middle level object.
