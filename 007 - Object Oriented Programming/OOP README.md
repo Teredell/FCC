@@ -37,3 +37,15 @@ Lesson 18: I think i know where this is going and it might be going the long way
 Lesson 19: Ok, i think, awkwardly, it brought it together. create top level (or super type or parent) object, create next level down object and then do nextLelvelDownObject.prototype = Object.create(topLevelObject.prototype) to inherit the properties in the top level one. then you can create instances of the bottom level one that have the propertirs.
 
 Lesson 20: After seting up this structure one needs to remember to change the constructor in each individual middle level object.
+
+Lesson 21: feels like it's finally brining it all together, we can inherit from the animal and add to the dog.
+
+Lesson 22: inherited methods can be overridden by defining them in the level you require, either at the very bottom level, eevie the dog or the Dog lewvel
+
+Lesson 23: Methods can be created and added to unrelated objects, described as a Mixin.
+
+Lesson 24: Might be approaching the limit of brain today, but closure looks good, if a little simple. It lets us store a private variable that can't be changed within an object - good for passwords and the liek
+
+Lesson 25: Might as well finish off this section today - this IIFE looks like they doidnt have anothe rpalce forf it, so it's tacked on here. essentionally a created function invokes immediately.
+
+Lesson 26: Another kind of addon but is related, you can create an imediately executed funstion that is an object with mixins (or not i guess) and have them available immedaiute;y top pass into other objects.
