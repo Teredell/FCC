@@ -29,3 +29,5 @@ Lesson 13: concat!!!! finally a lesson on concat, i've had to google it's use be
 Lesson 14: In the spirit of not changing things with functional programming, the use of the .push method is also discouraged, using concat is favoured. The exercise shows.
 
 Lesson 15: This took some doing, i definatewly need more practice with .reduce and filter and map.  But reduce seems to be lauded all over the internet so maybe an area of focus.
+
+Lesson 16: This exercise did serve as good practice actually, i was mostly good to solve without the help which was more of a check than anything
