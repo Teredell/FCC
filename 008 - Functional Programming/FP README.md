@@ -17,3 +17,15 @@ Lesson 7: OK, so we finally encountered the .map method. I had to do a little ho
 Lesson 8: READ THE FUCKING QUESTION. Array can be accessed using *this*, which would have saved some time. Aside from that all i did was create a for loop.
 
 Lesson 9: Well I solved this, correctly i just did the parseFloat in the .map & not the .filter & FCC wouldn't pass me. I have put the FCC approved solution at the bottom. Incidentally i learned about .filter!!
+
+Lesson 10: Was missing the question!. Very similar to lesson 8 in format so was exceptionally easy to solve. After pausing to review the help and check, i have provided another solution as it appears i may be missing the point. The point is whether something is true or false, not whether it returns a remainder
+
+Lesson 11: Relatively simple, create a function that uses .slice(), not sure what happened there.
+
+Lesson 12: Also straightforward, the point they are driving home is to not mutate stuff, EVER. So using sPlice is bad but you can sometimes achieve the same thing using slice, which returns a new array, not mutate the one you're working on.
+
+Lesson 13: concat!!!! finally a lesson on concat, i've had to google it's use before now anyway, but it's nice to see it here.
+
+Lesson 14: In the spirit of not changing things with functional programming, the use of the .push method is also discouraged, using concat is favoured. The exercise shows.
+
+Lesson 15: This took some doing, i definatewly need more practice with .reduce and filter and map.  But reduce seems to be lauded all over the internet so maybe an area of focus.
