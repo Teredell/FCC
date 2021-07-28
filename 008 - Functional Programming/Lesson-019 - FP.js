@@ -1,14 +1,17 @@
-//Lesson 019 - Return a Sorted Array Without Changing the Original Array
+//Lesson 019 - Split a String into an Array Using the split Method
 
-var globalArray = [5, 6, 3, 2, 9];
-function nonMutatingSort(arr) {
+function splitify(str) {
   // Only change code below this line
-  let newArray = [];
-  newArray = newArray.concat(arr);
-  return newArray.sort(function(a, b){
-    return a === b ? 0 : a > b ? 1 : -1;
-  });
-  
+  return str.split(/\d|\s|\-|,|\./);
   // Only change code above this line
 }
-console.log(nonMutatingSort(globalArray));
+console.log(splitify("Hello World,I-am code"));
+
+//I seem to have overdone it expecting they might test for underscore, but they arent so the below will work.
+
+function splitifySecond(strSecond) {
+  // Only change code below this line
+  return strSecond.split(/\W/);
+  // Only change code above this line
+}
+console.log(splitifySecond("Hello World,I-am code"));
