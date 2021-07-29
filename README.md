@@ -75,3 +75,6 @@ Completed Basic Algorithm scripting
 
 18/07/21
 Completed Object Orientated Programming
+
+29/07/21
+Completed Functional Programming
