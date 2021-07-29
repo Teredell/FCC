@@ -31,3 +31,19 @@ Lesson 14: In the spirit of not changing things with functional programming, the
 Lesson 15: This took some doing, i definatewly need more practice with .reduce and filter and map.  But reduce seems to be lauded all over the internet so maybe an area of focus.
 
 Lesson 16: This exercise did serve as good practice actually, i was mostly good to solve without the help which was more of a check than anything
+
+Lesson 17: Is a departure from reduce, filter & map finally. Now looking into .sort() - alphabetical is not as simple as i had hoped, you need to compare char values.
+
+Lesson 18: Same as 17 but non-mutating
+
+Lesson 19: Change of tack, now learned about the .splt() method, which i've had to google before now.
+
+Lesson 20: and now using the .join() method to bring things back together, which im sure i've also had to google. Surprise re-emergence of REGEX.
+
+Lesson 21: A little frustrated i didn't read the question, i went and sought out whitespace removal from a previous exercise in regex, to then beat the challenge and find i wasn't allowed to use replace. INSTEAD i have to use .trim() which i havem't been shown yet in the answers!
+
+Lesson 22: I got it without the help, i'm just going about things the long way still, like making a variable to return instead of returning directly. But it makes more sense the way im doing it for now. This exercise was learning the .every() method
+
+Lesson 23: Very similar to above lessone but for the .some method
+
+Lesson 24: I must admit this one left me scratching my head a little, it looks recursive at first and i went and added too many functions. I think currying will need a revisit.
