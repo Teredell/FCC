@@ -1,5 +1,4 @@
 //Lesson 005 - Spinal Tap Case
-console.log("\nLesson 5");
 
 function spinalCase(str) {
   //anytime we encounter a space, capital letter or dash or underscore
@@ -24,3 +23,14 @@ function spinalCase(str) {
 //console.log(spinalCase("The_Andy_Griffith_Show"));
 console.log(spinalCase("Teletubbies say Eh-oh"));
 //console.log(spinalCase("AllThe-small Things"));
+
+//This is the answer i probably would have gone with
+function spinalCaseAnswer(strTwo) {
+  // "It's such a fine line between stupid, and clever."
+  // --David St. Hubbins
+
+  return strTwo
+    .split(/\s|_|(?=[A-Z])/)
+    .join("-")
+    .toLowerCase();
+}
