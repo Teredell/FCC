@@ -15,3 +15,10 @@ Lesson 7: I really thought about putting a switch case in, one of the answers di
 Lesson 8: And then lo & behold the next exercise a switch was ideal haha - compared to lesson 4 this was easy? 
 
 Lesson 9: Looks like the help answers are way over-complicated. My solution almost looks too simple, but it passes!
+
+Lesson 10: so arguments is a keyword that literally replaces accessing the input parameters name. i rerally don't recall this being covered. I solved without revealing the answers. only to find some of the answers actually changed the input parametyer arr to ...arr, which i didnt know was allowed. i did google a fair bit but i got there and my solutiuon is almost verbatum answer 2.
+Sidenote - putting comments with ideas of how im going to tackle one of these in parts seems to help.
+
+Lesson 11: relatively simple switch and build an array and join to a string. Other more terse solutions existed but this was basically one of them.
+
+Lesson 12: Too bust at work with 2 missing from ofice, finally got back into this 2 days later! Seemed to get over inital confusion relatively quickly. Once i figured out how to make a fibonacci sequence i was aay, other soltutions a little differentbut mine fors too. Also first practical use of a do...while loop.
