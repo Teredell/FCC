@@ -22,3 +22,5 @@ Sidenote - putting comments with ideas of how im going to tackle one of these in
 Lesson 11: relatively simple switch and build an array and join to a string. Other more terse solutions existed but this was basically one of them.
 
 Lesson 12: Too bust at work with 2 missing from ofice, finally got back into this 2 days later! Seemed to get over inital confusion relatively quickly. Once i figured out how to make a fibonacci sequence i was aay, other soltutions a little differentbut mine fors too. Also first practical use of a do...while loop.
+
+Lesson 13: This one really fucked with my head and im giving up today after a few hours of testing and reviewing diferent solutions and referring to the help even modifiying the help solution with some console.logs changed the outcome today WTF. I understand what's going on but why it won't replicate in my code is fucking beyond me today.
