@@ -78,3 +78,6 @@ Completed Object Orientated Programming
 
 29/07/21
 Completed Functional Programming
+
+09/08/21
+I want a tick for working today even though i will not complete a challenge. I have spent half the day reading about Euclidian algos.
