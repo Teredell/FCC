@@ -24,3 +24,6 @@ Lesson 11: relatively simple switch and build an array and join to a string. Oth
 Lesson 12: Too bust at work with 2 missing from ofice, finally got back into this 2 days later! Seemed to get over inital confusion relatively quickly. Once i figured out how to make a fibonacci sequence i was aay, other soltutions a little differentbut mine fors too. Also first practical use of a do...while loop.
 
 Lesson 13: This one really fucked with my head and im giving up today after a few hours of testing and reviewing diferent solutions and referring to the help even modifiying the help solution with some console.logs changed the outcome today WTF. I understand what's going on but why it won't replicate in my code is fucking beyond me today.
+
+Lesson 14: So i have had super busy week at work and i didn't have the capacity to answer this question without undivided attention. Even morese that on saturday when i completed this, i'd been thinking about and reading into the Euclidian algo's for a few days and had an idea of how tro do this in my head. I have felt dumb, but this is a new level of dumb. Do i get it, yes but wow it took alot of work!
+Ulitmately when i'm done with this section i need to find some practice example that force me to get comfortable with algos and reduce if im going to run into these alot more.
