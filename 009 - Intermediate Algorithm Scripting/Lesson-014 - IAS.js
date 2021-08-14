@@ -46,6 +46,7 @@ console.log(smallestCommonMultiple + " is the answer");
 return smallestCommonMultiple;
 }
 
+//Tests
 smallestCommons([1, 5]);
 smallestCommons([5, 1]);
 smallestCommons([2, 10]);
