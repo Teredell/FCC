@@ -31,3 +31,5 @@ Ulitmately when i'm done with this section i need to find some practice example 
 Lesson 15: AFter many days of feeling dumb, it's not alot better today - i just couldn't seem to crack this easy one without a bit of a push from the help. changing arr[i] to arr[0] makes sense now, because everytime you .shift() arr[0] does change.
 
 Lesson 16: Are you looking at recursion again? you need to go back to the function you ARE MAKING! not some internal loop. In other news, still dumb, still not getting recursion and things.
+
+Lesson 17: I needed to do this one, as i knew i could do it without looking at the answer - yes my answer is a little longer than the solutions but i did it without looking ahead. Split string to array, convert to binary, convert to alphanumeric, re-join string.
