@@ -27,3 +27,7 @@ Lesson 13: This one really fucked with my head and im giving up today after a fe
 
 Lesson 14: So i have had super busy week at work and i didn't have the capacity to answer this question without undivided attention. Even morese that on saturday when i completed this, i'd been thinking about and reading into the Euclidian algo's for a few days and had an idea of how tro do this in my head. I have felt dumb, but this is a new level of dumb. Do i get it, yes but wow it took alot of work!
 Ulitmately when i'm done with this section i need to find some practice example that force me to get comfortable with algos and reduce if im going to run into these alot more.
+
+Lesson 15: AFter many days of feeling dumb, it's not alot better today - i just couldn't seem to crack this easy one without a bit of a push from the help. changing arr[i] to arr[0] makes sense now, because everytime you .shift() arr[0] does change.
+
+Lesson 16: Are you looking at recursion again? you need to go back to the function you ARE MAKING! not some internal loop. In other news, still dumb, still not getting recursion and things.
