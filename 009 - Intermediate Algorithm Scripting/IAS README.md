@@ -33,3 +33,5 @@ Lesson 15: AFter many days of feeling dumb, it's not alot better today - i just 
 Lesson 16: Are you looking at recursion again? you need to go back to the function you ARE MAKING! not some internal loop. In other news, still dumb, still not getting recursion and things.
 
 Lesson 17: I needed to do this one, as i knew i could do it without looking at the answer - yes my answer is a little longer than the solutions but i did it without looking ahead. Split string to array, convert to binary, convert to alphanumeric, re-join string.
+
+Lesson 18: Ok, some more confidence. Although on checking the answer it would seem i should have also have been checking for the existance of the variable in the array of objects, but it passed without this. I could have done that no worries if i was instructed to.
