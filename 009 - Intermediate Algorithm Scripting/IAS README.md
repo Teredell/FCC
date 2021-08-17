@@ -35,3 +35,5 @@ Lesson 16: Are you looking at recursion again? you need to go back to the functi
 Lesson 17: I needed to do this one, as i knew i could do it without looking at the answer - yes my answer is a little longer than the solutions but i did it without looking ahead. Split string to array, convert to binary, convert to alphanumeric, re-join string.
 
 Lesson 18: Ok, some more confidence. Although on checking the answer it would seem i should have also have been checking for the existance of the variable in the array of objects, but it passed without this. I could have done that no worries if i was instructed to.
+
+Lesson 19: Encountered a function with 2 sets of parenteses to deal with, in googling how to do this i stumbled onto part of the answer. Even so figuring out how to implement was a good challenge and got it done. Reading solutions i think mine covers more edge cases instead of taking only 1 or 2 inputs
