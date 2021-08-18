@@ -39,3 +39,5 @@ Lesson 18: Ok, some more confidence. Although on checking the answer it would se
 Lesson 19: Encountered a function with 2 sets of parenteses to deal with, in googling how to do this i stumbled onto part of the answer. Even so figuring out how to implement was a good challenge and got it done. Reading solutions i think mine covers more edge cases instead of taking only 1 or 2 inputs
 
 Lesson 20: A little dissappointed that my answer was absolutely fine and passed all the tests yet not accepted by FCC. Been a while since i did getters / setters for objects, but a nice change from all the heady algorithms!
+
+Lesson 21: This one was cool! and for all intents and purposes i figured it out on my own. there were some methods in the possible answsers where i could be more terse with the end array, but mine will do! nice to go out on what feels like a win in an otherwise very hard set of lessons. Create an algo from wiki and return array of objects.
