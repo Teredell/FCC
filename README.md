@@ -83,3 +83,6 @@ Completed Functional Programming
 I want a tick for working today even though i will not complete a challenge. I have spent half the day reading about Euclidian algos.
 
 18/08/21 Completed Intermediate Algorithm Scripting
+
+22/08/21
+Completed final project challenges & the whole certification today!!
