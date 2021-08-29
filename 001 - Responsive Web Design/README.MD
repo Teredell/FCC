@@ -1,1 +1,1 @@
-These lessons all exist on codepen.io - i will copy over at a later date
+These lessons all exist on codepen.io - I will copy over at a later date
