@@ -90,3 +90,6 @@ Completed final project challenges & the whole certification today!!
 
 27/08/21
 Completed Front End Development Libraries - Bootstrap
+
+02/09/21
+Completed Front End Development Libraries - jQuery
