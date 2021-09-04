@@ -1,22 +1,3 @@
-<style type='text/scss'>
-  @mixin border-stroke($val){
-    @if $val == light {
-      border: 1px solid black;
-    }@else if $val == medium {
-      border: 3px solid black;
-    }@else if $val == heavy {
-      border: 6px solid black;
-    }@else{
-      border: none;
-    }
-  }
-
-  #box {
-    width: 150px;
-    height: 150px;
-    background-color: red;
-    @include border-stroke(medium);
-  }
-</style>
+<link href="/003 - Front End Development Libraries/003 - SASS/CSS-STYLES/Lesson-004.css" rel="stylesheet" type="text/css" />
 
 <div id="box"></div>
