@@ -1,0 +1,5 @@
+$someVariable: 1;
+@while $someVariable <= 5{
+  .text-#{$someVariable} {font-size: $someVariable * 15px;}
+  $someVariable: $someVariable + 1;
+}
