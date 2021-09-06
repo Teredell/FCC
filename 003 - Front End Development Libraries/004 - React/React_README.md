@@ -1,3 +1,4 @@
+Notes from 05/09/21
 The set-up for React was hectic!
 here's some scattered notes about it.
 
@@ -19,6 +20,11 @@ create new lesson, do lesson. Note previously everything was inside the return, 
 then add a list element to landing.jsx copying the format
 then add an export line to index.js WITHIN THE COMPONENTS FOLDER
 the add the method name to the import at the top of App.js & create a route line copying format.
+
+Notes from 06/09/21
+While i'm at work it's going to be very hard to re-do what i set-up at home on VS code on repl.it, vis-a-vis time between calls and such.
+I'm going to keep studying but i'll set-up another staging folder so i can keep doing lessons on FCC and commits on github and then i'll hopefully be able to combine these on the weekend or after work into a cohesive site/lesson area.
+
 
 Now onto lesson notes.....
 Lesson 1 - You're basically always creating a function that returns a div
