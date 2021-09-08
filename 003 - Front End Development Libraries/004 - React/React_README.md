@@ -34,4 +34,5 @@ Lesson 4 - this one was a bit tricky, and i wanted to show where it should be. I
 All the other elements reder through the app.js so this one sticks out, sorry OCD
 Lesson 5 - Demonstrates that classNames in React are camelCase as they conflict with html as do everal other things
 Lesson 6 - Demonstrates that using JSX can eliminate closing tags for some elements by using <div />, however currently i find this a little confusing, i like having the closing tags
-Lesson 7 - 
+Lesson 7 - Was a little redundant in that io had already had to work out how to do this in setting up the VS code stuff
+
