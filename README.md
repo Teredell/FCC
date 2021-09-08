@@ -96,3 +96,6 @@ Completed Front End Development Libraries - jQuery
 
 05/09/21
 Completed Front End Development Libraries - SASS
+
+08/09/21
+Note to self - Do a refresher on git, git bash and pull/merge branches.
