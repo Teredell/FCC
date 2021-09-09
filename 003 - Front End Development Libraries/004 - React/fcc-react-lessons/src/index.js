@@ -20,8 +20,6 @@ ReactDOM.render(<App />, document.getElementById('root'));
 //ReactDOM.render(Lesson004, document.getElementById('lesson004'));
 /************Above was Lesson 4***************** */
 
-
-
 //Below this was originally in this file - for now do not change
 
 // If you want to start measuring performance in your app, pass a function

@@ -13,6 +13,7 @@ function Landing(props) {
               <li><Link to="/Lesson-005">Lesson 005</Link></li>
               <li><Link to="/Lesson-006">Lesson 006</Link></li>
               <li><Link to="/Lesson-007">Lesson 007</Link></li>
+              <li><Link to="/Lesson-008">Lesson 008</Link></li>
             </ul>
           </div>
   );

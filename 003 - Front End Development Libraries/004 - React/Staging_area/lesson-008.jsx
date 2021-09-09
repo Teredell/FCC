@@ -9,8 +9,6 @@ return(
   <h1>Hello React!</h1>
   </div>
 );
-
-
     // Change code above this line
   }
 };
