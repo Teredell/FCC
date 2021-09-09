@@ -1,5 +1,5 @@
 import React from "react";
-import { withRouter } from "react-router-dom";
+import { Link, withRouter } from "react-router-dom";
 
 //function Lesson008(props) {
 //  const MyComponent = <div>
@@ -9,14 +9,15 @@ import { withRouter } from "react-router-dom";
 //  return (MyComponent);
 //}
 
-class MyComponentTwo extends React.Component {
-   constructor(props) {
-      super(props);
-    }
+class Lesson008 extends React.Component {
+//   constructor(props) {   //For the purposes of this exercise, the constructor isn't needed in this webpage but will be later
+//      super(props);
+//    }
     render() {
       // Change code below this line
   return(
     <div>
+      <Link to="/">Landing</Link><br /><br /><br />
     <h1>Hello React!</h1>
     </div>
   );
@@ -24,4 +25,4 @@ class MyComponentTwo extends React.Component {
     }
   };
 
-export default withRouter(MyComponentTwo);
+export default withRouter(Lesson008);
