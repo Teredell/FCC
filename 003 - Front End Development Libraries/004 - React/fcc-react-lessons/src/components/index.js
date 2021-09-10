@@ -8,6 +8,7 @@ export { default as Lesson007 } from "./lesson-007";
 export { default as Lesson008 } from "./lesson-008";
 export { default as Lesson009 } from "./lesson-009";
 export { default as TypesOfFood } from "./lesson-010";
+export { default as TypesOfFoodTwo } from "./lesson-011";
 
 
 export { default as Landing } from "./landing";

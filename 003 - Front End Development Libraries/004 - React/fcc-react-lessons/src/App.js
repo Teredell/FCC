@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Lesson001, Lesson002, Lesson003, Lesson004, Lesson005, Lesson006, Lesson007, Lesson008, Lesson009, TypesOfFood, Landing } from "./components";
+import { Lesson001, Lesson002, Lesson003, Lesson004, Lesson005, Lesson006, Lesson007, Lesson008, Lesson009, TypesOfFood, TypesOfFoodTwo, Landing } from "./components";
 import './App.css';
 
 function App() {
@@ -21,6 +21,7 @@ function App() {
           <Route path="/Lesson-008" exact component={() => <Lesson008 />} />
           <Route path="/Lesson-009" exact component={() => <Lesson009 />} />
           <Route path="/Lesson-010" exact component={() => <TypesOfFood />} />
+          <Route path="/Lesson-011" exact component={() => <TypesOfFoodTwo />} />
 
         </Switch>
       </Router>
