@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Lesson001, Lesson002, Lesson003, Lesson004, Lesson005, Lesson006, Lesson007, Lesson008, Lesson009, TypesOfFood, 
-  TypesOfFoodTwo, Lesson012, Landing } from "./components";
+  TypesOfFoodTwo, Lesson012, Lesson013, Landing } from "./components";
 import './App.css';
 
 function App() {
@@ -24,6 +24,7 @@ function App() {
           <Route path="/Lesson-010" exact component={() => <TypesOfFood />} />
           <Route path="/Lesson-011" exact component={() => <TypesOfFoodTwo />} />
           <Route path="/Lesson-012" exact component={() => <Lesson012 />} />
+          <Route path="/Lesson-013" exact component={() => <Lesson013 />} />
 
         </Switch>
       </Router>

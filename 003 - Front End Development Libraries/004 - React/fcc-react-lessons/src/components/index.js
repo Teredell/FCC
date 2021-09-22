@@ -10,6 +10,6 @@ export { default as Lesson009 } from "./lesson-009";
 export { default as TypesOfFood } from "./lesson-010";
 export { default as TypesOfFoodTwo } from "./lesson-011";
 export { default as Lesson012 } from "./lesson-012";
-
+export { default as Lesson013 } from "./lesson-013";
 
 export { default as Landing } from "./landing";
