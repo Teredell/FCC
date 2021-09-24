@@ -2,9 +2,7 @@ import React from "react";
 import { Link, withRouter } from "react-router-dom";
 
   class Lesson014 extends React.Component {
-    constructor(props) {
-        super(props);
-    } 
+    //constructor(props) {super(props);} //As with lesson 8, this constructor is still not required in the VS code app
     render() {
       return (
         <div>

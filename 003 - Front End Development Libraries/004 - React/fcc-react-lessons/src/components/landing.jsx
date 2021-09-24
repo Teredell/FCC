@@ -1,29 +1,41 @@
 import React from "react";
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 import { Link, withRouter } from "react-router-dom";
 
 function Landing(props) {
   return (
     <div className="navigation">
       <h1><Link to="/">Landing</Link></h1>
-            <ul >
-              <li><Link to="/Lesson-001">Lesson 001</Link></li>
-              <li><Link to="/Lesson-002">Lesson 002</Link></li>
-              <li><Link to="/Lesson-003">Lesson 003</Link></li>
-              <li><Link to="/Lesson-004">Lesson 004</Link></li>
-              <li><Link to="/Lesson-005">Lesson 005</Link></li>
-              <li><Link to="/Lesson-006">Lesson 006</Link></li>
-              <li><Link to="/Lesson-007">Lesson 007</Link></li>
-              <li><Link to="/Lesson-008">Lesson 008</Link></li>
-              <li><Link to="/Lesson-009">Lesson 009</Link></li>
-              <li><Link to="/Lesson-010">Lesson 010</Link></li>
-              <li><Link to="/Lesson-011">Lesson 011</Link></li>
-              <li><Link to="/Lesson-012">Lesson 012</Link></li>
-              <li><Link to="/Lesson-013">Lesson 013</Link></li>
-              <li><Link to="/Lesson-014">Lesson 014</Link></li>
-              <li><Link to="/Lesson-015">Lesson 015</Link></li>
-
-            </ul>
-          </div>
+      <Container>
+        <Row>
+          <Col><Link to="/Lesson-001">Lesson 001</Link></Col>
+          <Col><Link to="/Lesson-002">Lesson 002</Link></Col>    
+          <Col><Link to="/Lesson-003">Lesson 003</Link></Col>
+        </Row>
+        <Row>
+          <Col><Link to="/Lesson-004">Lesson 004</Link></Col>
+          <Col><Link to="/Lesson-005">Lesson 005</Link></Col>    
+          <Col><Link to="/Lesson-006">Lesson 006</Link></Col>
+        </Row>
+        <Row>
+          <Col><Link to="/Lesson-007">Lesson 007</Link></Col>
+          <Col><Link to="/Lesson-008">Lesson 008</Link></Col>    
+          <Col><Link to="/Lesson-009">Lesson 009</Link></Col>
+        </Row>
+        <Row>
+          <Col><Link to="/Lesson-010">Lesson 010</Link></Col>
+          <Col><Link to="/Lesson-011">Lesson 011</Link></Col>    
+          <Col><Link to="/Lesson-012">Lesson 012</Link></Col>
+        </Row>
+        <Row>
+          <Col><Link to="/Lesson-013">Lesson 013</Link></Col>
+          <Col><Link to="/Lesson-014">Lesson 014</Link></Col>    
+          <Col><Link to="/Lesson-015">Lesson 015</Link></Col>
+        </Row>
+        </Container>
+    </div>
   );
 }
 

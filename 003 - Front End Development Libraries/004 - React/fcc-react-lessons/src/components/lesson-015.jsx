@@ -2,9 +2,7 @@ import React from "react";
 import { Link, withRouter } from "react-router-dom";
 
   class Lesson015 extends React.Component {
-    constructor(props) {
-        super(props);
-    } 
+    //constructor(props) {super(props);} //As with lesson 8, this constructor is still not required in the VS code app
     render() {
       return (
         <div>
@@ -13,7 +11,7 @@ import { Link, withRouter } from "react-router-dom";
                 <h2>Today</h2>
                     <List tasks={["some shit", "code", "walk"]}/>
                 <h2>Tomorrow</h2>
-                    <List tasks={["different thing", "code", "walk"]}/> 
+                <List tasks={["different thing", "code", "walk"]}/> 
         </div>
       );
     }
@@ -23,9 +21,9 @@ import { Link, withRouter } from "react-router-dom";
 
 
   const List = (props) => {
-    { /* Change code below this line */ }
+    /* Change code below this line */
     return <p>{props.tasks.join(', ')}</p>
-    { /* Change code above this line */ }
+    /* Change code above this line */
   };
 
 
