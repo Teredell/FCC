@@ -33,6 +33,8 @@ function Landing(props) {
           <Col><Link to="/Lesson-013">Lesson 013</Link></Col>
           <Col><Link to="/Lesson-014">Lesson 014</Link></Col>    
           <Col><Link to="/Lesson-015">Lesson 015</Link></Col>
+          <Col><Link to="/Lesson-016">Lesson 016</Link></Col>
+
         </Row>
         </Container>
     </div>
