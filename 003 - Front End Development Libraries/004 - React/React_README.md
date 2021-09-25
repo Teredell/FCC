@@ -36,3 +36,19 @@ Lesson 5 - Demonstrates that classNames in React are camelCase as they conflict 
 Lesson 6 - Demonstrates that using JSX can eliminate closing tags for some elements by using <div />, however currently i find this a little confusing, i like having the closing tags
 Lesson 7 - Was a little redundant in that io had already had to work out how to do this in setting up the VS code stuff
 
+I had a break and was a little slack with the notes, i'll try update some here.
+
+Lesson 8 - Moving from the function mehod of creating an div to now using extends react.component method.
+Lesson 9 - Introducing parent / child elements
+Lesson 10 - Creating a list and using as a child element to bring into parent
+Lesson 11 - Bringing 2 children in under a parent
+Lesson 12 - Some lessons are showing me how to render directly to the DOM so are hard to replicate here, this is one.
+Lesson 13 - Introduced the Constructor(props) Super(Props) thing
+Lesson 14 - Accessing props (also using JS method of Date)
+Lesson 15 - Accessing arrays and joining
+
+At this point I altered the Landing page and learned how to implement bootstrap into react on my own.
+Note the imports at the top of landing.jsx
+
+Lesson 16 - Introduced the defaultProps setting up of an element
+Lesson 17 - 
