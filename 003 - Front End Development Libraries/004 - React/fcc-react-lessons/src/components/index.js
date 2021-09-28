@@ -15,5 +15,6 @@ export { default as Lesson014 } from "./lesson-014";
 export { default as Lesson015 } from "./lesson-015";
 export { default as Lesson016 } from "./lesson-016";
 export { default as Lesson017 } from "./lesson-017";
+export { default as Lesson018 } from "./lesson-018";
 
 export { default as Landing } from "./landing";

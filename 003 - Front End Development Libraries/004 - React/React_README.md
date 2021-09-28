@@ -51,4 +51,4 @@ At this point I altered the Landing page and learned how to implement bootstrap 
 Note the imports at the top of landing.jsx
 
 Lesson 16 - Introduced the defaultProps setting up of an element
-Lesson 17 - 
+Lesson 17 - npm install --save prop-types

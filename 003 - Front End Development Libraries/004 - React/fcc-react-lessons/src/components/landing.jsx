@@ -35,6 +35,8 @@ function Landing(props) {
           <Col><Link to="/Lesson-015">Lesson 015</Link></Col>
           <Col><Link to="/Lesson-016">Lesson 016</Link></Col>
           <Col><Link to="/Lesson-017">Lesson 017</Link></Col>
+          <Col><Link to="/Lesson-017">Lesson 017</Link></Col>
+          <Col><Link to="/Lesson-018">Lesson 018</Link></Col>
 
         </Row>
         </Container>
