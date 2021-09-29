@@ -9,14 +9,14 @@ cd to the folder
 and then npm start
 
 This loads your blank project in the browser.
-Now we have 50 million files and folders in the ide, yay. 
+Now we have 50 million files and folders in the IDE, yay. 
 
-Initially i thought to do these exercises in index.js, but mulytiple lessons will require many many more files as we would have to spin up a whole set of files for each one, that's cumbersome.
+Initially i thought to do these exercises in index.js, but multiple lessons will require many many more files as we would have to spin up a whole set of files for each one, that's cumbersome.
 So i deleted/commented out  what editing i did to index.js and went googling about making multi-page react apps, that is not as simple as it sounds.
 
 I copied and edited with some difficulty a way to do this so that with each lesson you have to do the following to make it show up as a "route" on the website.
 made components folder.
-create new lesson, do lesson. Note previously everything was inside the return, i have moved the lesson work into the constant and am returning it.
+create new lesson, do lesson. Note previously everything was inside the return, I have moved the lesson work into the constant and am returning it.
 then add a list element to landing.jsx copying the format
 then add an export line to index.js WITHIN THE COMPONENTS FOLDER
 the add the method name to the import at the top of App.js & create a route line copying format.
@@ -51,4 +51,6 @@ At this point I altered the Landing page and learned how to implement bootstrap 
 Note the imports at the top of landing.jsx
 
 Lesson 16 - Introduced the defaultProps setting up of an element
-Lesson 17 - npm install --save prop-types
+Lesson 17 - npm install --save prop-types --> setting default properties
+Lesson 18 - Setting default type for property
+Lesson 19 - Using "this" to access property
