@@ -1,8 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Lesson001, Lesson002, Lesson003, Lesson004, Lesson005, Lesson006, Lesson007, Lesson008, Lesson009, TypesOfFood, 
-  TypesOfFoodTwo, Lesson012, Lesson013, Lesson014, Lesson015, Lesson016, Lesson017, Lesson018, Lesson019, 
-  Landing } from "./components";
+  TypesOfFoodTwo, Lesson012, Lesson013, Lesson014, Lesson015, Lesson016, Lesson017, Lesson018, Lesson019, Lesson020, 
+  Lesson021, Lesson022, Landing } from "./components";
 import './App.css';
 
 function App() {
@@ -32,6 +32,9 @@ function App() {
           <Route path="/Lesson-017" exact component={() => <Lesson017 />} />
           <Route path="/Lesson-018" exact component={() => <Lesson018 />} />
           <Route path="/Lesson-019" exact component={() => <Lesson019 />} />
+          <Route path="/Lesson-020" exact component={() => <Lesson020 />} />
+          <Route path="/Lesson-021" exact component={() => <Lesson021 />} />
+          <Route path="/Lesson-022" exact component={() => <Lesson022 />} />
 
 
         </Switch>
