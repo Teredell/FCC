@@ -21,5 +21,6 @@ export { default as Lesson020 } from "./lesson-020";
 export { default as Lesson021 } from "./lesson-021";
 export { default as Lesson022 } from "./lesson-022";
 export { default as Lesson023 } from "./lesson-023";
+export { default as Lesson024 } from "./lesson-024";
 
 export { default as Landing } from "./landing";
