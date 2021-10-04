@@ -54,3 +54,8 @@ Lesson 16 - Introduced the defaultProps setting up of an element
 Lesson 17 - npm install --save prop-types --> setting default properties
 Lesson 18 - Setting default type for property
 Lesson 19 - Using "this" to access property
+Lesson 20 - Using PropTypes to restrict a property type to the desired type.
+Lesson 21 - Stateful component - setting a state in the super area
+Lesson 22 - creating a variable in the render section to access the state item in the html
+lesson 23 - showing a state change in a website using a click
+lesson 24 - need to re-visit but "binding" the click using "this".
