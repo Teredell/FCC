@@ -99,3 +99,7 @@ Completed Front End Development Libraries - SASS
 
 08/09/21
 Note to self - Do a refresher on git, git bash and pull/merge branches.
+
+10/10/21
+Just a note that there have been structural changes at my day-job which greatly affects my ability to code whilst there.
+I'm greatly disappointed by this development but until something changes or i adjust to the increased load, teaching myself to code while on the job is going to take a backseat.

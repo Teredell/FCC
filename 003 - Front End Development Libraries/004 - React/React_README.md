@@ -59,3 +59,5 @@ Lesson 21 - Stateful component - setting a state in the super area
 Lesson 22 - creating a variable in the render section to access the state item in the html
 lesson 23 - showing a state change in a website using a click
 lesson 24 - need to re-visit but "binding" the click using "this".
+Lesson 25 - More binding of the click action in the constructor block, but outside of super. It is also showing my that writing "JS programs" between the constructor block and the render section is maybe how things get "dynamically" changed i.e. you click and it executes and changes.
+Lesson 26 - A bit more of the above but with a counter. What i had trouble with was accessing the property, state.property mate and you're there.

@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Lesson001, Lesson002, Lesson003, Lesson004, Lesson005, Lesson006, Lesson007, Lesson008, Lesson009, TypesOfFood, 
   TypesOfFoodTwo, Lesson012, Lesson013, Lesson014, Lesson015, Lesson016, Lesson017, Lesson018, Lesson019, Lesson020, 
-  Lesson021, Lesson022, Lesson023, Lesson024, Landing } from "./components";
+  Lesson021, Lesson022, Lesson023, Lesson024, Lesson025, Lesson026, Landing } from "./components";
 import './App.css';
 
 function App() {
@@ -37,6 +37,8 @@ function App() {
           <Route path="/Lesson-022" exact component={() => <Lesson022 />} />
           <Route path="/Lesson-023" exact component={() => <Lesson023 />} />
           <Route path="/Lesson-024" exact component={() => <Lesson024 />} />
+          <Route path="/Lesson-025" exact component={() => <Lesson025 />} />
+          <Route path="/Lesson-026" exact component={() => <Lesson026 />} />
 
 
         </Switch>
