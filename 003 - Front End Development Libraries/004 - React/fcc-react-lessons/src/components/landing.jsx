@@ -50,7 +50,9 @@ function Landing(props) {
           <Col><Link to="/Lesson-025">Lesson 025</Link></Col>
           <Col><Link to="/Lesson-026">Lesson 026</Link></Col>
           <Col><Link to="/Lesson-027">Lesson 027</Link></Col>
-
+        </Row>
+        <Row>
+          <Col><Link to="/Lesson-028">Lesson 028</Link></Col>
         </Row>
         </Container>
     </div>
